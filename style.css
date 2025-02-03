@@ -1,0 +1,56 @@
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.a{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+table{
+    width: 80%;
+    border:2px solid black;
+    text-align: center;
+    margin-left: 200px;
+}
+th,td{
+    border-collapse: separate;
+    border:1px solid black;
+    text-align: center;
+}
+hr{
+    width:80%
+}
+
+.span1{
+    text-align: center;
+}
+
+.b1{
+    background-color: #7198c1;
+}
+.b2{
+    background-color: rgb(192, 141, 141);
+}
+.b3{
+    background-color: rgb(188, 209, 188);
+}
+
+thead{
+    background-color: rgb(114, 122, 122);
+}
+tbody{
+    background-color: rgb(126, 127, 129);
+}
+h1{
+    text-align: center;
+    color: rgb(12, 12, 12);
+    background-color: rgb(229, 235, 235);
+    
+}
+body{
+    background-color: rgb(142, 152, 160);
+}
